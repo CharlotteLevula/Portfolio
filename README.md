@@ -7,7 +7,7 @@
 ### Hi, I'm Charlotte
 I am a Cybersecurity student graduating in December 2025. This portfolio documents my journey from software development to defensive security operations. 
 
-My primary focus is understanding how systems are built, how they break, and how to detect anomalies using logs and monitoring tools. I am known for a steadfast attitude—I don't just look for easy answers; I dig deep to understand the root cause of technical problems.
+My primary focus is understanding how systems are built, how they break, and how to detect anomalies using logs and monitoring tools. I am known for a steadfast attitude - I don't just look for easy answers; I dig deep to understand the root cause of technical problems.
 
 ---
 
