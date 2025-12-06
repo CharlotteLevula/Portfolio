@@ -19,7 +19,7 @@ My primary focus is understanding how systems are built, how they break, and how
 
 <img width="6481" height="3481" alt="Monitoring Architecture" src="https://github.com/user-attachments/assets/4ac9475d-5e45-47ff-a0ee-37e08f45c841" />
 
-*System Architecture Diagram]*
+*System Architecture Diagram*
 
 In my thesis, I designed and implemented a security monitoring prototype for a Federated Learning environment. The goal was to detect tampering attempts and ensure traceability in compliance with the EU AI Act.
 
