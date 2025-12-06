@@ -16,6 +16,7 @@ My primary focus is understanding how systems are built, how they break, and how
 **Tech Stack:** Python, Docker, Grafana, Loki, Promtail, Watchdog API
 
 <img width="6481" height="3481" alt="Monitoring Architecture" src="https://github.com/user-attachments/assets/4ac9475d-5e45-47ff-a0ee-37e08f45c841" />
+
 *Figure 1: The "Sidecar" Security Architecture. An independent Security Monitor (orange) runs alongside the client container, watching the shared data volume to create a tamper-resistant audit trail.*
 
 In my thesis, I designed and implemented a security monitoring prototype for a Federated Learning environment. The goal was to detect tampering attempts and ensure traceability in compliance with the EU AI Act.
