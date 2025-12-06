@@ -13,7 +13,9 @@ My primary focus is understanding how systems are built, how they break, and how
 
 ## Featured Project: SA-FLaaS Security Monitoring (Thesis)
 **Topic:** Security Monitoring & Anomaly Detection for Federated Learning System 
+
 **Tech Stack:** Python, Docker, Grafana, Loki, Promtail, Watchdog API
+
 
 <img width="6481" height="3481" alt="Monitoring Architecture" src="https://github.com/user-attachments/assets/4ac9475d-5e45-47ff-a0ee-37e08f45c841" />
 
