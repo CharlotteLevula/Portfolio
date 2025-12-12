@@ -40,6 +40,12 @@ In my thesis, I designed and implemented a security monitoring prototype for a F
 *The "Fake Training" Anomaly (see the last bar). The dashboard reveals a mismatch: The client claims to be training (Blue bar), but the Sidecar (Orange bar) shows zero file activity. This indicates a potential Repudiation or Model Poisoning attempt.*
 
 
+<img width="1299" height="284" alt="LogIntegrity" src="https://github.com/user-attachments/assets/278b03f7-de40-4f87-860e-602cf63fa2ec" />
+
+*Log Integrity Alert (Anti-Forensics). The dashboard captures a **CRITICAL** event where the monitor detected that the audit log file size shrank (truncation), indicating an attempt to destroy evidence.*
+
+
+
 
 ---
 
