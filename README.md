@@ -53,9 +53,9 @@ In my thesis, I designed and implemented a security monitoring prototype for a F
 
 * **Security Operations:** Log Analysis, Anomaly Detection, Incident Response basics (simulated).
 * **Monitoring & Data:** Grafana, Loki, Promtail, ELK Stack basics.
-* **Infrastructure:** Docker, Linux (Bash)
-* **Programming:** Python (Automation, Scripting), 
-* **Soft Skills:** Problem-solving, Documentation, Teamwork.
+* **Infrastructure:** Docker, Linux (Bash), Sidecar Patterns.
+* **Programming:** Python (Automation, Scripting, Watchdog API). 
+* **Soft Skills:** Problem-solving, Documentation, Teamwork, Regulatory Analysis (EU AI Act).
 
 ---
 
