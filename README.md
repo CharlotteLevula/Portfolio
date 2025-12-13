@@ -17,7 +17,7 @@ My primary focus is understanding how systems are built, how they break, and how
 **Tech Stack:** Python, Docker, Grafana, Loki, Promtail, Watchdog API
 
 
-<img width="425" height="222" alt="architecture" src="https://github.com/user-attachments/assets/180c01d3-87da-4a4a-b83d-13da74ade828" />
+<img width="886" height="264" alt="architecture" src="https://github.com/user-attachments/assets/180c01d3-87da-4a4a-b83d-13da74ade828" />
 
 
 *System Architecture Diagram*
